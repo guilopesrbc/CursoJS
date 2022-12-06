@@ -1,0 +1,37 @@
+header{
+    text-align: center;
+    text-shadow: 3px 3px 3px black;
+}
+footer{
+    text-align: center;
+    text-shadow: 3px 3px 3px black;
+    padding-top: 5px;
+}
+body{
+    background-color: rgb(0, 102, 255);
+    font: normal 18pt Arial;
+    color: white;
+
+}
+
+section{
+    border-radius: 10px;
+    background: white;
+    width: 630px;
+    margin: auto;
+    font-size: 15pt;
+    color: black;
+    padding: 3px;
+    padding-left: 10px;
+    
+}
+.dados{
+    padding: 5px;
+}
+#seladd{
+    width: 130px;
+    margin: 3px;
+}
+#fim{
+    margin: 5px;
+}
